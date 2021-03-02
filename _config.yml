@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            MYNote
+title:            '👻쓰자'
 tagline:          
 description:      R, Python을 이용한 </br>통계 분석과 웹개발 과정을 </br>기록합니다
 url:              https://themykim.github.io
