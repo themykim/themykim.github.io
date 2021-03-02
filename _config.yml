@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            MY Timeline
 tagline:          
-description:      'R, Python을 이용한 통계 분석과 웹개발 과정 기록용 블로그'
+description:      'R, Python을 이용한 통계 분석과 웹개발 과정 기록 블로그'
 url:              https://themykim.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
