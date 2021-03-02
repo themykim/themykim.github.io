@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            MY Timeline
+title:            타임라인
 tagline:          
-description:      'R, Python을 이용한 통계 분석과 웹개발 과정 기록 블로그'
+description:      'R, Python을 이용한 통계 분석과 웹개발 과정을 기록합니다'
 url:              https://themykim.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
